@@ -1,0 +1,10 @@
+body {
+    background-color: lightblue;
+}
+h1 {
+    color: navy;
+    font-family: Arial, sans-serif;
+}
+.table {
+    border: 1px solid black;
+}
